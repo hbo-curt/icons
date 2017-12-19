@@ -1,11 +1,14 @@
 {
-	"admin": {
+	"fileName": "cloud.png",
+	"created": {
+		"date": "2017-12-10T02:33:24.130Z",
+		"name": "test-user",
+		"email": "test-user@domain.com"
+	},
+	"fileMetadata": {
 
 	},
-	"auto": {
+	"userMetadata": {
 
-	},
-	"user": {
-		
 	}
 }
