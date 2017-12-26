@@ -1,0 +1,15 @@
+{
+	"id": "urn:res:index",
+	"fileName": "index.json",
+	"created": {
+		"date": "2017-12-26T17:15:24.130Z",
+		"name": "test-user",
+		"email": "test-user@domain.com"
+	},
+	"fileMetadata": {
+
+	},
+	"userMetadata": {
+
+	}
+}
